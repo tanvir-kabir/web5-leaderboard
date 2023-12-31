@@ -1,0 +1,177 @@
+
+
+
+
+
+body{
+    background-color:#F3F1FF;;
+}
+
+
+
+
+.nav-logo{
+    width: 40.424px;
+}
+
+.navbar{
+  
+    padding-left: 150px;
+    padding-right: 150px;
+
+    font-family: Roboto;
+    
+}
+
+.navbar-nav a {
+    color: white;
+}
+
+
+/* top-player */
+
+.top-player h3 {
+    color: #562EFF;
+
+    font-family: Poppins;
+    font-size: 24px;
+}
+
+.top-player h5 {
+    color: #000;
+
+font-family: Poppins;
+font-size: 18px;
+}
+
+.player-blog{
+    width: 60%;
+    height: 70%;
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+.player-image{
+    width: 56px;
+    margin-left: 40px;
+}
+
+
+/* top-blog */
+
+.blog-img{
+    width: 180px;
+    margin-left: 30px;
+}
+
+.by{
+    color: #9F9F9F;
+
+font-family: Poppins;
+}
+
+.writer-name{
+    color: #562EFF;
+font-family: Poppins;
+font-size: 16px;
+
+}
+
+.top-blog h5{
+    color: #000;
+
+font-family: Poppins;
+font-size: 20px;
+}
+
+.top-blog h3 {
+    color: #562EFF;
+
+font-family: Poppins;
+font-size: 24px;
+}
+
+/* latest course */
+
+
+.course-title{
+    color: #562EFF;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+
+.course{
+    width: 60%;
+    
+
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+
+.star{
+    width: 14px;
+    height: 12px;
+    padding-right: 2px;
+    margin-top: 8px;
+    align-items: center;
+
+
+}
+
+
+
+.hour-clock{
+    width: 94.826px;
+height: 29.383px;
+border-radius: 14.691px;
+background-color: var(--ffe-4-e-8, #FFE4E8);
+padding-top: 2px;
+}
+
+.clock{
+    width: 20px;
+    height: 20px;
+    margin: 3px;
+}
+
+.row h4 {
+    color: #1E1E1E;
+
+font-family: Roboto;
+font-size: 20.034px;
+}
+
+
+.row p{
+    color: #ED6B4F;
+
+font-family: Roboto;
+font-size: 14.691px;
+}
+
+.hour-clock p{
+    
+color: var(--ff-4-a-60, #FF4A60);
+font-family: Open Sans;
+font-size: 14.691px;
+font-style: normal;
+font-weight: 600;
+}
+
+.img-star p {
+    color: #A2A2A2;
+font-family: Poppins;
+font-size: 14.691px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 4px;
+margin-left: 6px;
+}
